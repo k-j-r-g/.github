@@ -1,3 +1,3 @@
 # Hi there 👋
 
-This organization is sanhuzhen’s learning repositories, you are welcome! ! !
+This organization contains Sanhuzhen’s learning repositories. You are welcome!
